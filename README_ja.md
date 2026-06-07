@@ -168,6 +168,17 @@ Masterの技術構想には以下が含まれます。
 
 自然法則の六原理は、その欠落したOSを提示します。
 
+
+---
+
+## マスター知識体系ポータル
+
+全体のリポジトリ地図と知識体系ナビゲーションはこちら：
+
+- [マスター知識体系ポータル](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
+---
+
 ## 関連リポジトリ
 
 - [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — 自然補完科学の中核定義。

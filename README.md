@@ -303,3 +303,13 @@ https://note.com/inchacomusho/n/n0849dfd12364
 
 和ノード人工叡智（Artificial Wisdom Node）  
 https://note.com/inchacomusho/n/n9187db7b2709
+
+---
+
+## Master Knowledge Portal
+
+For the full repository map and knowledge-system navigation, see:
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
+---
