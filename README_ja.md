@@ -175,6 +175,19 @@ Masterの技術構想には以下が含まれます。
 - [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — 自然補完科学と新文明創成計画の統合索引。
 - [Artificial-Wisdom-and-Wa-Node-Repository-Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index) — 人工叡智と和ノードの統合索引。
 
+---
+
+## 関連フレームワーク
+
+このリポジトリは、自然補完科学および地球循環再生フレームワークの一部である。
+
+- [地球直接冷却：地球本来の冷却カスケードを回復する自然補完型気候安定化体系](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
+  地球直接冷却を、雨・雲・風・海洋鉛直対流・土壌保水・植物・微生物・腐葉土・炭素固定という自然冷却カスケードの回復として定義する中核フレームワーク。
+
+- [NOTE記事：地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
+
+---
+
 ## ハッシュタグ
 
 #NaturalLaw #CivilizationalOS #PlanetRestoration #NewCivilization  
