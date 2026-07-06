@@ -1,5 +1,7 @@
 # 自然法則の六原理（自然法則・調和・循環・構造・秩序・和）
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 新文明フレームワークのための基礎哲学
 
 > English version: [README.md](./README.md)

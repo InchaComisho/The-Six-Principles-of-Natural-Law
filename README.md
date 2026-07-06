@@ -2,6 +2,8 @@
 
 — Foundational Philosophy for a New Civilizational Framework
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 Complete Integrated Edition — Technical Whitepaper Version for GitHub
 
 Author: Master (inchacomisho / inchacomusho)
