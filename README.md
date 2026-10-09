@@ -1,5 +1,7 @@
 # The Six Principles of Natural Law (Setsuri, Harmony, Circulation, Structure, Order, Wa)
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 — Foundational Philosophy for a New Civilizational Framework
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
