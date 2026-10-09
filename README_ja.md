@@ -4,7 +4,7 @@
 
 ## 新文明フレームワークのための基礎哲学
 
-> English version: [README.md](./README.md)
+> English version: [README.md](./README_ja.md)
 
 > 本リポジトリは、Master（InchaComisho / inchacomusho）が提案する「自然法則の六原理」を日本語で整理したものです。これは宗教的教義ではなく、自然・生態系・物理・気候システム・人類文明に観察される構造的な存続原理として提示されます。本内容は文明哲学・統合フレームワークであり、個別の科学的主張や技術実装には検証が必要です。
 
